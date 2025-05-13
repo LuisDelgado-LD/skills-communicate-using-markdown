@@ -6,6 +6,9 @@
 ps -fea 
 ```
 ### H3
+- [ ] hacer la cama
+- [ ] comer
+- [X] dormir
 #### H4
 ##### H5
 ###### H6
